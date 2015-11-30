@@ -1,0 +1,10 @@
+ESWITCH v0.1 - Toggle Tandy joystick interface
+----------------------------------------------
+
+Requirements: a Tandy 1000
+
+Usage: TLJOYFIX (toggle interface enable state)
+
+Tested on a TL/2 but may work on other models too.
+
+Questions? Get in touch with bjt on vogons.org or the Vintage Computer Forums.
